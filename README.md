@@ -2,6 +2,10 @@
 
 This project demonstrates an LED control system implemented using **FreeRTOS** on an STM32 microcontroller. The application consists of multiple tasks that control different LEDs, simulating concurrent behavior with critical sections and delays.  
 
+
+https://github.com/user-attachments/assets/d7e8b401-34ff-4471-8bad-774a98ee57dd
+
+
 ## Features
 
 - **Green LED Task**: Toggles a green LED with a periodic delay and safely accesses shared data using critical sections.
